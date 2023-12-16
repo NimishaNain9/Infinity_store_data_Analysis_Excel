@@ -19,14 +19,20 @@ The project is organized as follows:
 
 **3.Data Analysis:** Pivot Tables were made and then chart were made from them ,formatting was also done on charts.
 
-we answered the following questions after data analysis:
+we answered the **following questions** after data analysis:
 
-**a**Comparison of sales and orders
+a)Comparison of sales and orders
+
 b)Which month got the highest sales?
+
 c)Who purchased more Men or Women?
+
 d)Different order status in 2022?
+
 e)List top 10 states contributing to sales.
+
 f)Which channel contributes maximum to sales?
+
 g)Highest selling category.
 
 Analysis of the sales data in 2022 using Excel- Annual Report Generated
