@@ -17,7 +17,7 @@ The project is organized as follows:
 
 **2.Data Processing:** data is processed , necessary calculaions is done which will help in analysis.for eg- we made age group , retrieved month from date .
 
-**3.Data Analysis:** Pivot Tables were made and then chart were made from them ,formatting was also done on charts.
+**3.Data Analysis and 4.Data Visualization:** Pivot Tables were made and then chart were made from them ,formatting was also done on charts.
 
 we answered the **following questions** after data analysis:
 
